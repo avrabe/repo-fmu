@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="fmu" fetch="." />
-  <default revision="main" remote="fmu" />
+  <default revision="dunfell" remote="fmu" />
   <project path="build/fmu" name="meta-fmu" groups="ota,rust" />
 </manifest>
